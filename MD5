@@ -1,0 +1,14 @@
+1f53daeb3ff9b4c09ed3410a08b2a1fe *DESCRIPTION
+1e48ed01616dcd4273c3318963262d6d *NAMESPACE
+e36377def3782e07e7dfe61872d452a0 *R/data.R
+fddeeb70127818a9c5ca0448c7b1a137 *R/get_meeting.R
+898731b0c2ea759b5c4b0b7b49b761ba *R/globals.R
+ae2224a22e071d8ae69bc1e60751c2e0 *R/test_scripts/iinkai_table.R
+63ec15dfccc4305965bfba61cc152c9f *R/test_scripts/japanese_demo.rmd
+9e96b898a87eb8187cdc1547e59f1f16 *R/test_scripts/japanese_demo.zip
+33c59734af1b49eafe2b49c15f151c2e *R/test_scripts/japanese_demo/japanese_demo.md
+53b174e77197f24ea17a812b5135f885 *R/test_scripts/kaiki_table-new.R
+6bac25f6a3517cda2a96de3160a64459 *R/test_scripts/kaiki_table.R
+f9dff74bd7e67bd88dea7b0d9a3c3ffa *data/session_info.rda
+1f8fffc35da7805a8b2897f57245de2b *man/get_meeting.Rd
+2c838748889d6a5ba862736a9ee7186d *man/session_info.Rd
